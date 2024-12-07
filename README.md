@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akmal
-- 👀 I’m interested in java
-- 🌱 I’m currently learning backend tech like jdbc servelets and jsp
+- 🚀 Senior Java Developer | Full-Stack Enthusiast | Microservices Specialist
+- 🌟 Open to Spring Boot Opportunities
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
